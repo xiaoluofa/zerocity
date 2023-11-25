@@ -18,13 +18,14 @@ layout:
 {% hint style="success" %}
 如果你是服务器曾经的玩家欢迎下载[全周目存档](https://pan.baidu.com/s/1Y5ynCU6yQujJsVbC3CaPIQ?pwd=48gy)
 
-[官网](https://www.sakuracat.fun/zerocity/) | [云地图](http://sakuracat.fun:8100/) | [数据排行榜](http://sakuracat.fun:8000/) | [KOOK](https://kook.top/nHgX4g) | [QQ群](https://qm.qq.com/q/P9WZyd9jc6)
+[官网](https://www.sakuracat.fun/zerocity/) | [云地图](http://sakuracat.fun:8100/) | [数据排行榜](http://sakuracat.fun:8000/) | [KOOK](https://kook.top/nHgX4g) | [QQ群](https://qm.qq.com/q/P9WZyd9jc6) | [整合包](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 
 无法访问云地图和数据排行榜可以尝试：[云地图](https://map.sakuracat.site/) | [数据排行榜](https://rank.sakuracat.site/) <mark style="background-color:green;">注：从美国绕回国内较慢</mark>
 {% endhint %}
 
 ## 服务器玩法
 
+* 原版即可进入游戏，如需参与点歌可自行下载[点歌mod](cha-jian-jiao-cheng/dian-ge-cha-jian.md)或者[整合包](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 * **原版生存：游戏难度困难，这里**<mark style="background-color:blue;">**没有传送，死亡掉落，没有箱子锁，使用地狱交通**</mark>
 * **建筑友好：对于较难收集的物品，会有系统商店出售，一键砍树，建筑党可以愉快的建造**
 * **红石生电：**<mark style="background-color:red;">**不限制各类红石机器**</mark>**，保留原版特性，区块都可以炸**
