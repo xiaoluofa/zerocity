@@ -2,6 +2,10 @@
 
 **需下载MOD配合使用，MOD可在群文件夹必备MOD中找到**
 
+**也可以在这里下载压缩包，mod在里面，解压就可以看到啦**
+
+{% file src="../.gitbook/assets/点歌插件.zip" %}
+
 * **`/music [网易云音乐数字ID] — 点歌`**
 * **`/music help — 获取帮助`**
 * **`/music vote — 投票切歌`**
