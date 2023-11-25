@@ -45,12 +45,6 @@ shift+右键
 
 <figure><img src="https://s2.loli.net/2023/11/24/z3JTkDVhNZOeLMt.gif" alt=""><figcaption></figcaption></figure>
 
-## **潜影箱预览**
-
-使用鼠标中键点击潜影箱
-
-<figure><img src="https://s2.loli.net/2023/11/24/7YS4o9EKWbMPNm5.gif" alt=""><figcaption></figcaption></figure>
-
 ## 永远长不大的生物
 
 让生物吃下毒马铃薯

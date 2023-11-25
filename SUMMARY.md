@@ -23,6 +23,8 @@
 ## 封神榜
 
 * [封神榜](feng-shen-bang/feng-shen-bang.md)
+* [好人好事](feng-shen-bang/hao-ren-hao-shi.md)
+* [赞助记录](feng-shen-bang/zan-zhu-ji-lu.md)
 
 ## 扩展内容
 
