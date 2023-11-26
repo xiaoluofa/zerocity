@@ -20,11 +20,7 @@ layout:
 
 ## 插件指令
 
-开启刷新幻翼
+开启或者禁用刷新幻翼
 
-`/pil on`
-
-禁用刷新幻翼
-
-`/pil off`
+`/nophantoms`
 
