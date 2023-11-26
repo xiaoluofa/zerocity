@@ -31,7 +31,7 @@ layout:
 * **红石生电：**<mark style="background-color:red;">**不限制各类红石机器**</mark>**，保留原版特性，区块都可以炸**
 * **娱乐插件：添加各类小插件，为服务器增添乐趣**
 * **特定时间：**
-  * **每天19:00-23:00，死亡不掉落 | 某些节假日全天死亡不掉落**
+  * **每天19:00-23:00，死亡不掉落**<mark style="background-color:red;">**\[仅主世界]**</mark>** | 某些节假日全天死亡不掉落**
   * **每天19:00-23:00，睡觉需要主世界人数的百分之三十可以跳过，其余时间一个人即可**
 * **独立战利品：每个玩家都会有独立的宝箱(例如村庄的箱子/地牢的箱子/海底神殿的箱子等)/末地鞘翅，完全不需要担心，没有东西探索\~**<mark style="background-color:green;">**【如需拆除，**</mark>[<mark style="color:blue;background-color:green;">**群文档**</mark>](https://docs.qq.com/sheet/DWUxnSmhCVVdXZ25n)<mark style="background-color:green;">**填写对应申请信息即可】**</mark>
 * **随机出生：每个玩家第一次加入服务器都会在地图范围5000格内随机出生，远离繁华出生点，重头开始打造你的生存基地**
