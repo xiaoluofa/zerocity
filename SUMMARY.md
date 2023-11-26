@@ -11,6 +11,7 @@
 * [原版扩展](cha-jian-jiao-cheng/yuan-ban-kuo-zhan.md)
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
 * [更多附魔](cha-jian-jiao-cheng/geng-duo-fu-mo.md)
+* [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
 
 ## 服务器规则
 
