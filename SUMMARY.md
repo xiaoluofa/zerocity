@@ -12,6 +12,9 @@
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
 * [更多附魔](cha-jian-jiao-cheng/geng-duo-fu-mo.md)
 * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
+* [时间金钱](cha-jian-jiao-cheng/shi-jian-jin-qian.md)
+* [更好的信标](cha-jian-jiao-cheng/geng-hao-de-xin-biao.md)
+* [系统商店](cha-jian-jiao-cheng/xi-tong-shang-dian.md)
 
 ## 服务器规则
 
