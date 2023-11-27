@@ -15,6 +15,7 @@
 * [时间金钱](cha-jian-jiao-cheng/shi-jian-jin-qian.md)
 * [更好的信标](cha-jian-jiao-cheng/geng-hao-de-xin-biao.md)
 * [系统商店](cha-jian-jiao-cheng/xi-tong-shang-dian.md)
+* [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
 
 ## 服务器规则
 
