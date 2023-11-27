@@ -14,7 +14,7 @@ layout:
 
 # 插入图片
 
-<mark style="background-color:red;">禁止任何不雅图片有问题的图片，违者封禁</mark>
+<mark style="background-color:red;">禁止任何不雅图片以及可能有问题的图片，违者封禁</mark>
 
 ## 指令
 
