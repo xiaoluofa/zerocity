@@ -18,7 +18,7 @@
 * silk\_chest
 * thrifty
 * tunnel
-* veinminer
+* veinminer<mark style="background-color:green;">\[部分情况会给予玩家作为奖品]</mark>
 * dragonfire\_arrows
 * Self\_Destruction
 * ghast
