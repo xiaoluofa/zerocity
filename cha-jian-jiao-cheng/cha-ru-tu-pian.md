@@ -18,7 +18,7 @@ layout:
 
 ## 指令
 
-/imageframe create \<name> \<url> \<width> \<height>- 创建新的图像地图 注width和height为mc方块单位，即1为占一个方块 ，每位玩家最多可创建20个图像，<mark style="background-color:green;">请确保背包有足够的空间</mark>
+/imageframe create \<name> \<url> \<width> \<height>- 创建新的图像地图 注width和height为mc方块单位，即1为占一个方块 ，每位玩家最多可创建20个图像，<mark style="background-color:green;">请确保背包有足够的空间,以及足够的空地图</mark>
 
 /imageframe info - 获取与你所持有的图像地图相关的信息&#x20;
 
@@ -27,8 +27,6 @@ layout:
 /imageframe rename \<new\_name> - 重命名自己创建的预先存在的图像地图
 
 /imageframe list - 列出所有自己创建的预先存在的图像地图
-
-/imageframe get \<name> - 获得一张你创建过的图片 <mark style="background-color:green;">注：该指令将消耗10游戏货币</mark>
 
 
 
