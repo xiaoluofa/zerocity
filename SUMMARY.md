@@ -5,17 +5,20 @@
 ## 插件教程
 
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
+* [玩法相关的插件](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
+  * [禁用幻翼](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/jin-yong-huan-yi.md)
+  * [坐在方块](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
+  * [原版扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/yuan-ban-kuo-zhan.md)
+  * [更多附魔](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-duo-fu-mo.md)
+  * [破基岩](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/po-ji-yan.md)
+  * [更好的信标](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-hao-de-xin-biao.md)
+  * [插入图片](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cha-ru-tu-pian.md)
+* [经济相关的插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
+  * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
+  * [系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
+  * [装饰头颅](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
 * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
-* [禁用幻翼](cha-jian-jiao-cheng/jin-yong-huan-yi.md)
-* [坐在方块](cha-jian-jiao-cheng/zuo-zai-fang-kuai.md)
-* [原版扩展](cha-jian-jiao-cheng/yuan-ban-kuo-zhan.md)
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
-* [更多附魔](cha-jian-jiao-cheng/geng-duo-fu-mo.md)
-* [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
-* [时间金钱](cha-jian-jiao-cheng/shi-jian-jin-qian.md)
-* [更好的信标](cha-jian-jiao-cheng/geng-hao-de-xin-biao.md)
-* [系统商店](cha-jian-jiao-cheng/xi-tong-shang-dian.md)
-* [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
 
 ## 服务器规则
 

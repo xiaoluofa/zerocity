@@ -58,12 +58,6 @@ shift+右键可以举起动物，长按shift丢出，支持列表如下：
 默认启用，关闭或开启输入以下指令即可\
 `/ultimatetimber toggle`
 
-## 获取头颅
-
-如果要给自己，发送给谁就写自己即可，<mark style="background-color:green;">该指令将消耗10游戏货币</mark>
-
-`/ph spawn 头颅ID 发送给谁的ID 数量`
-
 ## 更好的三叉戟
 
 忠诚附魔的三叉戟在坠入虚空，不会消失
