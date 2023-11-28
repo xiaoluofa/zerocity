@@ -19,6 +19,7 @@
   * [装饰头颅](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
 * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
+* [杂项](cha-jian-jiao-cheng/za-xiang.md)
 
 ## 服务器规则
 
