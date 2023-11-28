@@ -17,6 +17,8 @@ layout:
 
 {% hint style="warning" %}
 为确保服务器安全，防止漏洞利用，并不会提供插件名，只描述各类插件实现的功能
+
+<mark style="background-color:red;">服务器有大量的插件来提供更多游戏体验，非常建议大致浏览，你会发现很多好玩的</mark>
 {% endhint %}
 
 ## 找到史莱姆区块

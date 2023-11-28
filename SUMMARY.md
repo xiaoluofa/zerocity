@@ -17,9 +17,9 @@
   * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
   * [系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
   * [装饰头颅](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
-* [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
-* [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
-* [杂项](cha-jian-jiao-cheng/za-xiang.md)
+* [杂项](cha-jian-jiao-cheng/za-xiang/README.md)
+  * [查询插件](cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
+  * [点歌插件](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
 
 ## 服务器规则
 
