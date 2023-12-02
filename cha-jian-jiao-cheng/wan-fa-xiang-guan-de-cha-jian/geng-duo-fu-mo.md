@@ -47,21 +47,3 @@
 | 附魔消失                                                            | 物品附魔效果在物品掉落时有概率消失     |
 | 易损诅咒                                                            | 增加使用磨石或铁砧时物品可能会被损坏的概率 |
 | 死亡反噬                                                            | 在击杀玩家时有一定概率会原地去世      |
-| 溺尸社区服务                                                          | 钓鱼有可能钓上溺尸             |
-
-## 禁用名单
-
-* blast\_mining
-* bomber
-* divine\_touch
-* decapitator
-* explorsive\_arrows
-* silk\_chest
-* thrifty
-* tunnel
-* veinminer<mark style="background-color:green;">\[部分情况会给予玩家作为奖品]</mark>
-* dragonfire\_arrows
-* Self\_Destruction
-* ghast
-* ender\_bow
-* curse\_of\_drowned
