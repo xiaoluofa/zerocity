@@ -16,6 +16,12 @@ layout:
 
 <mark style="background-color:red;">注：该操作有可能会导致你有时候无法进入服务器需要反复加入，软件只是尽可能帮助你加入。</mark>
 
+<mark style="background-color:red;">盗版不要使用！</mark>
+
+<mark style="background-color:red;">盗版不要使用！</mark>
+
+<mark style="background-color:red;">盗版不要使用！</mark>
+
 指令
 
 `/premium 开启` <mark style="background-color:green;">需要输入两次</mark>
