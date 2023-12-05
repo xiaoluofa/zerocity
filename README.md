@@ -18,7 +18,7 @@ layout:
 {% hint style="success" %}
 如果你是服务器曾经的玩家欢迎下载[全周目存档](https://pan.baidu.com/s/1Y5ynCU6yQujJsVbC3CaPIQ?pwd=48gy)
 
-[官网](https://www.sakuracat.fun/zerocity/) | [云地图](http://sakuracat.fun:8100/) | [数据排行榜](http://sakuracat.fun:8000/) | [KOOK](https://kook.top/nHgX4g) | [QQ群](https://qm.qq.com/q/P9WZyd9jc6) | [整合包【无法下载请到群里下载】](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
+[官网](https://www.sakuracat.fun/zerocity/) | [云地图](http://sakuracat.fun:8100/) | [数据排行榜](http://sakuracat.fun:8000/) | [KOOK](https://kook.top/G93qPs) | [QQ群](https://qm.qq.com/q/P9WZyd9jc6) | [整合包【无法下载请到群里下载】](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 
 无法访问云地图和数据排行榜可以尝试：[云地图](https://map.sakuracat.site/) | [数据排行榜](https://rank.sakuracat.site/) <mark style="background-color:green;">注：从美国绕回国内较慢</mark>
 {% endhint %}
