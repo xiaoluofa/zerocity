@@ -6,7 +6,6 @@
 
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [玩法相关的插件](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
-  * [禁用幻翼](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/jin-yong-huan-yi.md)
   * [坐在方块](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
   * [原版扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/yuan-ban-kuo-zhan.md)
   * [更多附魔](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-duo-fu-mo.md)
