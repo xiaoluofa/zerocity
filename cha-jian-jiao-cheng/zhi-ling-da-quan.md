@@ -36,3 +36,6 @@ description: 详细教程请查看下面的文章
 | - log            | 登录                 |
 | - login          | 登录                 |
 | - changepassword | 更改密码               |
+| money            | 查看金币               |
+| baltop           | 经济排行榜              |
+| chestsort        | 箱子整理               |
