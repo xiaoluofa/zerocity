@@ -8,6 +8,7 @@
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [玩法相关的插件](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
   * [坐在方块](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
+  * [电梯](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/dian-ti.md)
   * [原版扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/yuan-ban-kuo-zhan.md)
   * [更多附魔](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-duo-fu-mo.md)
   * [破基岩](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/po-ji-yan.md)
