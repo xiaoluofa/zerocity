@@ -39,3 +39,5 @@ description: 详细教程请查看下面的文章
 | money            | 查看金币               |
 | baltop           | 经济排行榜              |
 | chestsort        | 箱子整理               |
+| skin             | 皮肤                 |
+| hat              | 戴帽子                |
