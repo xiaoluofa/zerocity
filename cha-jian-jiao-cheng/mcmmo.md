@@ -20,6 +20,7 @@ layout:
 /mctop 排行榜
 /inspect name 查看玩家能力等级
 /mcscoreboard clear 关闭计分板
+/mcability 开启或关闭能力 能力快捷为手持工具点击鼠标右键激活
 ```
 
 ##
