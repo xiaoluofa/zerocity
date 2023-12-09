@@ -14,6 +14,8 @@ layout:
 
 # MCMMO
 
+禁用了钓鱼职业，可能影响到原版钓鱼物品概率，所以禁了。
+
 ```
 /mmv open  查看能力
 /party help 组队
