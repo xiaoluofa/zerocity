@@ -15,6 +15,7 @@
   * [更好的信标](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-hao-de-xin-biao.md)
   * [插入图片](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cha-ru-tu-pian.md)
   * [自定义合成](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zi-ding-yi-he-cheng.md)
+  * [彩色告示牌](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cai-se-gao-shi-pai.md)
 * [经济相关的插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
   * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
   * [系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
