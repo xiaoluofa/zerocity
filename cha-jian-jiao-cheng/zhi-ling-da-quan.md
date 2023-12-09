@@ -41,3 +41,11 @@ description: 详细教程请查看下面的文章
 | chestsort        | 箱子整理               |
 | skin             | 皮肤                 |
 | hat              | 戴帽子                |
+| mmv              | 能力统计GUI            |
+| mcstats          | 能力统计               |
+| mcability        | 能力查看               |
+| party            | 组队                 |
+| mctop            | 排行榜                |
+| inspect          | 查看他人等级             |
+| mcscoreboard     | 关闭计分板              |
+

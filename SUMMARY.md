@@ -6,6 +6,7 @@
 
 * [指令大全](cha-jian-jiao-cheng/zhi-ling-da-quan.md)
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
+* [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
 * [玩法相关的插件](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
   * [坐在方块](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
   * [电梯](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/dian-ti.md)
