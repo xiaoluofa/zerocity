@@ -6,6 +6,8 @@
 
 如果你觉得某个附魔很破坏游戏体验，请联系腐竹禁用\~
 
+获取途径钓鱼以及村民交易，出现概率为20%
+
 {% embed url="https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Enchantments" %}
 
 ## 更多附魔名单
