@@ -21,6 +21,10 @@ layout:
 <mark style="background-color:red;">服务器有大量的插件来提供更多游戏体验，非常建议大致浏览，你会发现很多好玩的</mark>
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="background-color:green;">由于服务器使用paper核心同时因为MC游戏使用单核性能为主，由于玩家增加将不可避免的带来卡顿问题，卡顿预计可能在玩家同时30人在线出现，届时可能会选择删除部分插件或者更换为Folia核心【这将失去90%的娱乐插件，来带动更多玩家一起玩</mark>
+{% endhint %}
+
 ## 找到史莱姆区块
 
 你只需要用桶将小史莱姆装起来，拿在手上，当你进入史莱姆区块，它就会开心的跳起来！

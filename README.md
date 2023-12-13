@@ -36,6 +36,16 @@ layout:
 * **随机出生：每个玩家第一次加入服务器都会在地图范围5000格内随机出生，远离繁华出生点，重头开始打造你的生存基地**
 * <mark style="background-color:green;">**免正版**</mark>
 
+## 服务器基础设置
+
+**核心：Paper**
+
+**视距：12，但是使用了插件来发送32区块数据**
+
+**红石：开启TNT复制特性，刷重力方块特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
+
+<mark style="background-color:red;">**请不要将红石机器造的过于密集，建议分散点，避免同时加载**</mark>
+
 ## 如何加入
 
 <figure><img src="https://image.mc-list.xyz/banner/1-1842.png" alt=""><figcaption></figcaption></figure>
