@@ -19,6 +19,7 @@
   * [彩色告示牌/铁砧](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cai-se-gao-shi-pai-tie-zhen.md)
   * [皮肤](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/pi-fu.md)
   * [付费传送](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/fu-fei-chuan-song.md)
+  * [聊天扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/liao-tian-kuo-zhan.md)
 * [经济相关的插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
   * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
   * [系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
