@@ -40,7 +40,7 @@ layout:
 
 **核心：Paper**
 
-**视距：12，但是使用了插件来发送32区块数据**
+**视距：12**
 
 **红石：开启TNT复制特性，刷重力方块特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
 
