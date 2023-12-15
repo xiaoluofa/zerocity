@@ -4,13 +4,13 @@
 
 **也可以在这里下载压缩包，mod在里面，解压就可以看到啦**
 
-{% file src="../.gitbook/assets/点歌插件.zip" %}
+{% file src="../../.gitbook/assets/点歌插件.zip" %}
 
 * **`/music [网易云音乐数字ID] — 点歌`**
 * **`/music help — 获取帮助`**
 * **`/music vote — 投票切歌`**
 * **`/music stop — 停止播放这首歌`**
-* **`/music nomusic — 不再参与点歌`**
+* **`/music nomusic — 不再参与点歌,重新点歌即可重新加入`**
 * **`/music list — 获取点歌列表`**
 * **`/music search [歌名]  — 搜索歌曲`**
 * **`/music select [序号] — 选择搜索的歌曲`**
