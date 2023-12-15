@@ -14,6 +14,8 @@ layout:
 
 # 赞助记录
 
+爱发电 [https://afdian.net/a/zerocity](https://afdian.net/a/zerocity)
+
 | ID    | QQ       | 金额 | 时间          |
 | ----- | -------- | -- | ----------- |
 |       |          |    |             |
