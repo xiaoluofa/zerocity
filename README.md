@@ -38,9 +38,9 @@ layout:
 
 ## 服务器基础设置
 
-**核心：Paper**
+**核心：folia**
 
-**视距：12**
+**视距：8**
 
 **红石：开启TNT复制特性，刷重力方块特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
 
@@ -50,12 +50,11 @@ layout:
 
 <figure><img src="https://image.mc-list.xyz/banner/1-1842.png" alt=""><figcaption></figcaption></figure>
 
-* **服务器IP：sakuracat.fun**
-* **游戏版本：1.20.1 【不支持多版本互通，以及基岩版】**
-* **白名单：Q群**[**645550845**](https://qm.qq.com/q/P9WZyd9jc6)
+* **游戏版本：1.20.1**
+* **白名单审核群：Q群751317809**
 * **正版验证：无【盗版可加入，但是！！！不要熊哦】**
 * **主机类型：**
-* **3800X独立整机，50mbps上传 【50位玩家同时在线，完全没有问题】**
+* **3800X独立整机，50mbps上传**
 * **有一台13900k备用**
 * **客户端：无需下载专用客户端，原版端即可进入**
 * **服务器材质包：请自行下载使用，无法下载可到群文件夹材质包中下载，**[**安装教程**](kuo-zhan-nei-rong/fu-wu-qi-cai-zhi-bao-an-zhuang-jiao-cheng.md)
