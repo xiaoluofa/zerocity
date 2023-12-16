@@ -27,14 +27,11 @@ layout:
 
 * **原版即可进入游戏，如需参与点歌可自行下载**[**点歌mod**](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)**或者**[**整合包【无法下载请到群里下载】**](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 * **原版生存：游戏难度困难，这里**<mark style="background-color:blue;">**没有传送，死亡不掉落但会有惩罚，没有箱子锁，使用地狱交通**</mark>
-* **建筑友好：对于较难收集的物品，会有系统商店出售，一键砍树，建筑党可以愉快的建造**
+* **建筑友好：对于较难收集的物品，会有系统商店出售**
 * **红石生电：**<mark style="background-color:red;">**不限制各类红石机器**</mark>**，保留原版特性，区块都可以炸**
 * **娱乐插件：添加各类小插件，为服务器增添乐趣**
-* **特定时间：**
-  * **每天19:00-23:00，睡觉需要主世界人数的百分之三十可以跳过，其余时间一个人即可**
-* **独立战利品：每个玩家都会有独立的宝箱(例如村庄的箱子/地牢的箱子/海底神殿的箱子等)/末地鞘翅，完全不需要担心，没有东西探索，甚至当你第一次到达末地的时候，即使末影龙被击杀也将复活，你可以击杀末影龙获得龙蛋**<mark style="background-color:green;">**【如需拆除，**</mark>[<mark style="color:blue;background-color:green;">**群文档**</mark>](https://docs.qq.com/sheet/DWUxnSmhCVVdXZ25n)<mark style="background-color:green;">**填写对应申请信息即可】**</mark>
+* **睡觉需要主世界人数的百分之十即可跳过**
 * **随机出生：每个玩家第一次加入服务器都会在地图范围5000格内随机出生，远离繁华出生点，重头开始打造你的生存基地**
-* <mark style="background-color:green;">**免正版**</mark>
 
 ## 服务器基础设置
 
@@ -42,7 +39,7 @@ layout:
 
 **视距：8**
 
-**红石：开启TNT复制特性，刷重力方块特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
+**红石：开启TNT复制特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
 
 <mark style="background-color:red;">**请不要将红石机器造的过于密集，建议分散点，避免同时加载**</mark>
 
@@ -55,9 +52,6 @@ layout:
 * **3800X独立整机，50mbps上传**
 * **有一台13900k备用**
 * **客户端：无需下载专用客户端，原版端即可进入**
-* **服务器材质包：请自行下载使用，无法下载可到群文件夹材质包中下载，**[**安装教程**](kuo-zhan-nei-rong/fu-wu-qi-cai-zhi-bao-an-zhuang-jiao-cheng.md)
-
-{% file src=".gitbook/assets/扩展材质包【必需解压缩后才能用】.7z" %}
 
 ## 服务器历史
 

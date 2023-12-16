@@ -4,6 +4,7 @@
 
 ## 插件教程
 
+* [Untitled](cha-jian-jiao-cheng/untitled.md)
 * [指令大全](cha-jian-jiao-cheng/zhi-ling-da-quan.md)
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
