@@ -48,8 +48,6 @@ layout:
 
 ## 如何加入
 
-<figure><img src="https://image.mc-list.xyz/banner/1-1842.png" alt=""><figcaption></figcaption></figure>
-
 * **游戏版本：1.20.1**
 * **白名单审核群：Q群751317809**
 * **正版验证：无【盗版可加入，但是！！！不要熊哦】**
