@@ -9,14 +9,19 @@
 * [玩法相关的插件](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
   * [坐在方块](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
   * [插入图片](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cha-ru-tu-pian.md)
+  * [更多附魔](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-duo-fu-mo.md)
   * [皮肤](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/pi-fu.md)
   * [付费传送](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/fu-fei-chuan-song.md)
   * [聊天扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/liao-tian-kuo-zhan.md)
+  * [原版扩展](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/yuan-ban-kuo-zhan.md)
+  * [装饰头颅](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
 * [经济相关的插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
+  * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
   * [目前无法使用系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/mu-qian-wu-fa-shi-yong-xi-tong-shang-dian.md)
 * [杂项](cha-jian-jiao-cheng/za-xiang/README.md)
   * [查询插件](cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
   * [点歌插件](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
+  * [三连奖励](cha-jian-jiao-cheng/za-xiang/san-lian-jiang-li.md)
 
 ## 服务器规则
 
@@ -40,8 +45,6 @@
 * [玩法相关的插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/README.md)
   * [坐在方块](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
   * [电梯](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/dian-ti.md)
-  * [原版扩展](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/yuan-ban-kuo-zhan.md)
-  * [更多附魔](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-duo-fu-mo.md)
   * [破基岩](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/po-ji-yan.md)
   * [更好的信标](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/geng-hao-de-xin-biao.md)
   * [插入图片](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/cha-ru-tu-pian.md)
@@ -51,14 +54,11 @@
   * [付费传送](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/fu-fei-chuan-song.md)
   * [聊天扩展](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/liao-tian-kuo-zhan.md)
 * [经济相关的插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
-  * [时间金钱](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
   * [系统商店](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
-  * [装饰头颅](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
 * [杂项](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/README.md)
   * [查询插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
   * [点歌插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
   * [开启正版自动登录](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/kai-qi-zheng-ban-zi-dong-deng-lu.md)
-  * [三连奖励](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/san-lian-jiang-li.md)
 
 ## 不要看了，过时了扩展内容
 

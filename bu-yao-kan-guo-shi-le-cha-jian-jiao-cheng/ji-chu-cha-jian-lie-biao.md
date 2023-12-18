@@ -39,20 +39,6 @@ shift+右键可以举起动物，长按shift丢出，支持列表如下：
 
 `PIG CHICKEN RABBIT WOLE`<mark style="color:green;">`BOAT`</mark>`SHEEP PARROT`
 
-## 自动整理
-
-使用指令/chestsort打开gui
-
-最上面的为自动整理，打开箱子后关闭即可生效
-
-当你启动了下面的快捷键则会导致自动整理失效，需快捷键激活
-
-<figure><img src="https://s2.loli.net/2023/11/24/phkO6N4ZK8ncz3j.webp" alt=""><figcaption></figcaption></figure>
-
-## 腐肉烧皮革
-
-## 苦力怕爆炸保护
-
 ## 末地优化
 
 当年第一次到达末地，且末影龙已经死了，末影龙将自动复活。
@@ -65,6 +51,20 @@ shift+右键可以举起动物，长按shift丢出，支持列表如下：
 
 默认启用，关闭或开启输入以下指令即可\
 `/ultimatetimber toggle`
+
+## 腐肉烧皮革
+
+## 苦力怕爆炸保护
+
+## 自动整理
+
+使用指令/chestsort打开gui
+
+最上面的为自动整理，打开箱子后关闭即可生效
+
+当你启动了下面的快捷键则会导致自动整理失效，需快捷键激活
+
+<figure><img src="https://s2.loli.net/2023/11/24/phkO6N4ZK8ncz3j.webp" alt=""><figcaption></figcaption></figure>
 
 ## 更好的三叉戟
 

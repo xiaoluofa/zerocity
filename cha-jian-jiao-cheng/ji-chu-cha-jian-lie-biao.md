@@ -18,7 +18,9 @@ layout:
 {% hint style="warning" %}
 为确保服务器安全，防止漏洞利用，并不会提供插件名，只描述各类插件实现的功能
 
-<mark style="background-color:red;">服务器有大量的插件来提供更多游戏体验，非常建议大致浏览，你会发现很多好玩的</mark>
+<mark style="background-color:green;">服务器有大量的插件来提供更多游戏体验，非常建议大致浏览，你会发现很多好玩的</mark>
+
+<mark style="background-color:red;">目前插件不一定完全兼容，极其不稳定，如果服务器炸了请等待3-4分钟重连</mark>
 {% endhint %}
 
 ## 随机传送
@@ -28,3 +30,34 @@ layout:
 ```
 /brtp
 ```
+
+## 找到史莱姆区块
+
+你只需要用桶将小史莱姆装起来，拿在手上，当你进入史莱姆区块，它就会开心的跳起来！
+
+{% hint style="success" %}
+需要安装服务器材质包，见群文件材质包
+{% endhint %}
+
+## 举起动物
+
+shift+右键可以举起动物，长按shift丢出，支持列表如下：
+
+`PIG CHICKEN RABBIT WOLE`<mark style="color:green;">`BOAT`</mark>`SHEEP PARROT`
+
+## 末地优化
+
+当年第一次到达末地，且末影龙已经死了，末影龙将自动复活。
+
+每一条末影龙都会掉落一颗龙蛋，满足你的收集欲\~
+
+参与杀死末影龙的玩家将会得相同的经验，再也不需要抢经验了
+
+## 一键砍树
+
+默认启用，关闭或开启输入以下指令即可\
+`/ultimatetimber toggle`
+
+## 腐肉烧皮革
+
+## 苦力怕爆炸保护
