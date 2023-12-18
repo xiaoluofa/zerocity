@@ -16,6 +16,8 @@ layout:
 
 禁用了钓鱼职业，可能影响到原版钓鱼物品概率，所以禁了。
 
+<mark style="background-color:green;">由于服务器核心更换，部分指令已经失效</mark>
+
 ```
 /mmv open  查看能力
 /party help 组队

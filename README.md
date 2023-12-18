@@ -39,9 +39,9 @@ layout:
 
 **视距：8**
 
-**红石：开启TNT复制特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
-
 <mark style="background-color:red;">**请不要将红石机器造的过于密集，建议分散点，避免同时加载**</mark>
+
+**：s开启TNT复制特性，**<mark style="background-color:red;">**刷线机（请自行b站搜索paper刷线机！！**</mark>
 
 ## 如何加入
 
