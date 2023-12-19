@@ -28,15 +28,17 @@ layout:
 * **原版即可进入游戏，如需参与点歌可自行下载**[**点歌mod**](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)**或者**[**整合包【无法下载请到群里下载】**](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 * **原版生存：游戏难度困难，这里**<mark style="background-color:blue;">**没有传送，死亡不掉落但会有惩罚，没有箱子锁，使用地狱交通**</mark>
 * **建筑友好：对于较难收集的物品，会有系统商店出售**
-* **红石生电：**<mark style="background-color:red;">**不限制各类红石机器**</mark>**，保留原版特性，区块都可以炸**
+* **红石生电：**<mark style="color:green;">**不限制各类红石机器**</mark>**，保留原版特性**
 * **娱乐插件：添加各类小插件，为服务器增添乐趣**
 * **睡觉需要主世界人数的百分之十即可跳过**
 * **随机出生：每个玩家第一次加入服务器都会有5次随机传送的机会，远离繁华出生点，重头开始打造你的生存基地**
-* **：**
+* <mark style="color:green;">**特殊设定：**</mark>
 * **世界生成的箱子以及鞘翅，每个人都可以拿取，即使被其他人拿取了。**
 * **每个人第一次进入末地，如果末影龙已经被其他玩家击杀会自动复活。**
 * **击杀末影龙可以获得龙头，龙蛋**
 * <mark style="background-color:red;">**地狱刷怪笼无法破坏，尝试破坏会被加上很奇怪的buff！**</mark>
+* <mark style="color:red;">**BUG：**</mark>
+* **村民有严重的bug 服务器重启会丢失职业 解决办法：和村民交易一次锁定**
 
 ## 服务器基础设置
 
@@ -50,7 +52,7 @@ layout:
 
 **生电：**
 
-<mark style="background-color:red;">**（请自行b站搜索paper刷线机！！**</mark>
+<mark style="background-color:red;">**（请自行b站搜索paper刷线机！！**</mark>**开启不一定生效，未经测试，绿色为已知可行**
 
 **无敌水晶**
 
@@ -62,13 +64,13 @@ layout:
 
 **连点器**
 
-**破基岩,末地门框架**
+<mark style="color:green;">**破基岩,末地门框架**</mark>
 
 **折跃门下界门加载器**
 
-**漏斗矿车机器TNT/地毯/铁轨复制**
+<mark style="color:green;">**漏斗矿车机器TNT/地毯/铁轨复制**</mark>
 
-**刷沙机**
+<mark style="color:green;">**刷沙机**</mark>
 
 ## 如何加入
 

@@ -23,6 +23,7 @@
   * [查询插件](cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
   * [点歌插件](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
   * [三连奖励](cha-jian-jiao-cheng/za-xiang/san-lian-jiang-li.md)
+  * [开启正版自动登录](cha-jian-jiao-cheng/za-xiang/kai-qi-zheng-ban-zi-dong-deng-lu.md)
 
 ## 服务器规则
 
@@ -62,7 +63,6 @@
 * [杂项](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/README.md)
   * [查询插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
   * [点歌插件](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
-  * [开启正版自动登录](bu-yao-kan-guo-shi-le-cha-jian-jiao-cheng/za-xiang/kai-qi-zheng-ban-zi-dong-deng-lu.md)
 
 ## 不要看了，过时了扩展内容
 
