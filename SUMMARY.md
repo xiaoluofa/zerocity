@@ -18,7 +18,7 @@
   * [装饰头颅](cha-jian-jiao-cheng/wan-fa-xiang-guan-de-cha-jian/zhuang-shi-tou-lu.md)
 * [经济相关的插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/README.md)
   * [时间金钱](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/shi-jian-jin-qian.md)
-  * [目前无法使用系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/mu-qian-wu-fa-shi-yong-xi-tong-shang-dian.md)
+  * [系统商店](cha-jian-jiao-cheng/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
 * [杂项](cha-jian-jiao-cheng/za-xiang/README.md)
   * [查询插件](cha-jian-jiao-cheng/za-xiang/cha-xun-cha-jian.md)
   * [点歌插件](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)
