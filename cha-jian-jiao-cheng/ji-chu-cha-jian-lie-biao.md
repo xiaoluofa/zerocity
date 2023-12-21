@@ -40,6 +40,6 @@ layout:
 ## 一键砍树
 
 默认启用，关闭或开启输入以下指令即可\
-`/ultimatetimber toggle`
+`/`treefeller toggle
 
 ## 苦力怕爆炸保护
