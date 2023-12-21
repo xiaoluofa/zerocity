@@ -34,7 +34,7 @@ layout:
 ## 找到史莱姆区块
 
 ```
-/slime
+/slimemap
 ```
 
 ## 一键砍树
