@@ -25,7 +25,7 @@ layout:
 
 ## 服务器玩法
 
-* **原版即可进入游戏，如需参与点歌可自行下载**[**点歌mod**](cha-jian-jiao-cheng/za-xiang/dian-ge-cha-jian.md)**或者**[**整合包【无法下载请到群里下载】**](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
+* **原版即可进入游戏，如需参与点歌可自行下载**[**点歌mod**](cha-jian-jiao-cheng/dian-ge-cha-jian.md)**或者**[**整合包【无法下载请到群里下载】**](https://drive.google.com/file/d/1pVplyqahm7MDZfYoUtrMhvmsvMW41FeJ/view?usp=drive\_link)
 * **原版生存：游戏难度困难，死亡不掉落，使用地狱交通，**<mark style="color:green;">**没有箱子锁，没有圈地，没有传送**</mark>
 * **建筑友好：对于较难收集的物品，会有系统商店出售**
 * **红石生电：**<mark style="color:green;">**不限制各类红石机器，尽可能多的保留原版特性**</mark>
