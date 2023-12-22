@@ -55,6 +55,8 @@ layout:
 
 <mark style="background-color:red;">**（请自行b站搜索paper刷线机！！**</mark>**开启不一定生效，未经测试，绿色为已知可行**
 
+<mark style="background-color:red;">**服务器存在延迟与卡顿等意外情况，tnt复制机器请不要过高频率，且如使用史莱姆弹射装置极其容易炸膛。**</mark>
+
 **无敌水晶**
 
 <mark style="color:green;">**无头活塞**</mark>
