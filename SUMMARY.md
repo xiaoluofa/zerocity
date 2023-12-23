@@ -12,6 +12,7 @@
 * [付费传送](cha-jian-jiao-cheng/fu-fei-chuan-song.md)
 * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
+* [更多合成](cha-jian-jiao-cheng/geng-duo-he-cheng.md)
 
 ## 服务器规则
 
