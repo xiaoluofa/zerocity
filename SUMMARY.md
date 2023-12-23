@@ -14,6 +14,7 @@
 * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
 * [更多合成](cha-jian-jiao-cheng/geng-duo-he-cheng.md)
 * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
+* [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
 
 ## 服务器规则
 
