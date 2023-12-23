@@ -15,6 +15,7 @@
 * [更多合成](cha-jian-jiao-cheng/geng-duo-he-cheng.md)
 * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
 * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
+* [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
 
 ## 服务器规则
 
