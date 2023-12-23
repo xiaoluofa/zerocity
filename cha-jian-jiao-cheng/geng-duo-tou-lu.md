@@ -12,15 +12,7 @@ layout:
     visible: true
 ---
 
-# 装饰头颅
-
-## 获取头颅
-
-如果要给自己，发送给谁就写自己即可，<mark style="background-color:green;">该指令将消耗10游戏货币</mark>
-
-`/ph spawn 头颅ID 发送给谁的ID 数量`
-
-生物头颅掉落概率：均在0.02以上。
+# 更多头颅
 
 ## 头颅数据库
 
@@ -30,3 +22,6 @@ layout:
 
 `/hdb`
 
+购买玩家头颅
+
+`/phead id`
