@@ -16,6 +16,7 @@
 * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
 * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
 * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
+* [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
 
 ## 服务器规则
 
@@ -45,7 +46,6 @@
 * [玩法相关的插件](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/README.md)
   * [坐在方块](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/zuo-zai-fang-kuai.md)
   * [电梯](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/dian-ti.md)
-  * [破基岩](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/po-ji-yan.md)
   * [更好的信标](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/geng-hao-de-xin-biao.md)
   * [插入图片](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/cha-ru-tu-pian.md)
   * [彩色告示牌/铁砧](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/wan-fa-xiang-guan-de-cha-jian/cai-se-gao-shi-pai-tie-zhen.md)
