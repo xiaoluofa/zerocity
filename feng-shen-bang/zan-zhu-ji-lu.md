@@ -20,12 +20,4 @@ layout:
 
 赞助请备注ID，无备注默认为匿名赞助，非常感谢！
 
-| ID            | QQ         | 金额  | 时间          |
-| ------------- | ---------- | --- | ----------- |
-|               |            |     |             |
-| ColaP1geon    | 1031619883 | 50  | 2023年12月25日 |
-| tianlang\_520 | 2789035817 | 50  | 2023年12月25日 |
-| KITT2002      | 2434837026 | 40  | 2023年12月24日 |
-| Mechrev\_M    | 854727823  | 100 | 2023年12月24日 |
-| Z\_mu         | 77411721   | 30  | 2023年12月13日 |
-|               |            |     |             |
+<table><thead><tr><th width="225">ID</th><th data-hidden>QQ</th><th data-hidden>金额</th><th data-hidden width="174">时间</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td>4Y_ABC</td><td>934492690</td><td>4.44</td><td>2023年12月25日</td></tr><tr><td>TZLDHHH</td><td>1156835815</td><td>100</td><td>2023年12月25日</td></tr><tr><td>ColaP1geon</td><td>1031619883</td><td>50</td><td>2023年12月25日</td></tr><tr><td>tianlang_520</td><td>2789035817</td><td>50</td><td>2023年12月25日</td></tr><tr><td>KITT2002</td><td>2434837026</td><td>40</td><td>2023年12月24日</td></tr><tr><td>Mechrev_M</td><td>854727823</td><td>100</td><td>2023年12月24日</td></tr><tr><td>Z_mu</td><td>77411721</td><td>30</td><td>2023年12月13日</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
