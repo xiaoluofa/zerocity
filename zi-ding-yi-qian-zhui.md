@@ -18,7 +18,7 @@ layout:
 
 <mark style="color:green;">**赞助可以让服务器更长久，给予一定的奖励望理解**</mark>
 
-**该功能仅赞助者可用，**[**赞助教程**](feng-shen-bang/zan-zhu-ji-lu.md)
+**该功能仅赞助者可用，**[**赞助教程**](zan-zhu.md)
 
 **使用指令打开菜单**
 

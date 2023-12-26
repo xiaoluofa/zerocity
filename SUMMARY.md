@@ -1,6 +1,7 @@
 # Table of contents
 
 * [零落服务器](README.md)
+* [赞助](zan-zhu.md)
 * [自定义前缀](zi-ding-yi-qian-zhui.md)
 
 ## 插件教程
@@ -35,7 +36,6 @@
 
 * [封神榜](feng-shen-bang/feng-shen-bang.md)
 * [好人好事](feng-shen-bang/hao-ren-hao-shi.md)
-* [赞助记录](feng-shen-bang/zan-zhu-ji-lu.md)
 
 ## 由于核心切换，下面内容全部过时
 
