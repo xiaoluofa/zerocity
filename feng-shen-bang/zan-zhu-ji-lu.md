@@ -16,37 +16,13 @@ layout:
 
 爱发电 [https://afdian.net/a/zerocity](https://afdian.net/a/zerocity)
 
-赞助奖励为100赞助点，可用于[自定义前缀](../zi-ding-yi-qian-zhui.md)输入游戏名称
+赞助奖励为100赞助点，可用于[自定义前缀](../zi-ding-yi-qian-zhui.md)输入游戏名称，请一定要输入正确的游戏名称，发货预计2分钟左右，需要在商店服等待。
 
 <figure><img src="https://s2.loli.net/2023/12/26/B9YdVFywLlROzuc.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://s2.loli.net/2023/12/26/VpOdeXh9EqarWZS.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-服务器群相册赞助图片 有支付宝微信收款码 <mark style="background-color:green;">首选赞助途径</mark>
+服务器群相册赞助图片 有支付宝微信收款码 <mark style="background-color:green;">首选赞助途径，需要我手动发货，不一定及时，不及可以选择这个。</mark>
 
 赞助请备注ID，无备注默认为匿名赞助，非常感谢！
 
