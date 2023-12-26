@@ -14,6 +14,10 @@ layout:
 
 # 自定义前缀
 
+<mark style="color:green;">**服务器只收称号 自定义彩色物品名称 地图画等不影响平衡的赞助**</mark>
+
+<mark style="color:green;">**赞助可以让服务器更长久，给予一定的奖励望理解**</mark>
+
 **该功能仅赞助者可用，**[**赞助教程**](feng-shen-bang/zan-zhu-ji-lu.md)
 
 **使用指令打开菜单**
