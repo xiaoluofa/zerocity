@@ -1,6 +1,7 @@
 # Table of contents
 
 * [零落服务器](README.md)
+* [自定义前缀](zi-ding-yi-qian-zhui.md)
 
 ## 插件教程
 
