@@ -14,6 +14,10 @@ layout:
 
 # 赞助记录
 
+<mark style="color:green;">**服务器只收称号 自定义彩色物品名称 地图画等不影响平衡的赞助**</mark>
+
+<mark style="color:green;">**赞助可以让服务器更长久，给予一定的奖励望理解**</mark>
+
 爱发电 [https://afdian.net/a/zerocity](https://afdian.net/a/zerocity)
 
 赞助奖励为100赞助点，可用于[自定义前缀](../zi-ding-yi-qian-zhui.md)输入游戏名称，请一定要输入正确的游戏名称，发货预计2分钟左右，需要在商店服等待。
