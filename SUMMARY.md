@@ -6,8 +6,8 @@
 
 * [赞助](zan-zhu.md)
 * [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
-  * [自定义前缀](zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-qian-zhui.md)
-  * [插入图片](zan-zhu-jiao-cheng/zan-zhu-quan-xian/cha-ru-tu-pian.md)
+  * [自定义前缀](zi-ding-yi-qian-zhui.md)
+  * [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
 
 ## 插件教程
 
