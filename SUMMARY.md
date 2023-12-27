@@ -4,11 +4,12 @@
 
 ## 赞助教程
 
-* [赞助](zan-zhu-jiao-cheng/zan-zhu.md)
-* [自定义前缀](zan-zhu-jiao-cheng/zi-ding-yi-qian-zhui.md)
+* [赞助](zan-zhu.md)
+* [自定义前缀](zi-ding-yi-qian-zhui.md)
 
 ## 插件教程
 
+* [娱乐类](cha-jian-jiao-cheng/yu-le-lei.md)
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
 * [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
