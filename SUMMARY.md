@@ -5,25 +5,26 @@
 ## 赞助教程
 
 * [赞助](zan-zhu.md)
-* [自定义前缀](zi-ding-yi-qian-zhui.md)
-* [插入图片](zan-zhu-jiao-cheng/cha-ru-tu-pian.md)
+* [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
+  * [自定义前缀](zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-qian-zhui.md)
+  * [插入图片](zan-zhu-jiao-cheng/zan-zhu-quan-xian/cha-ru-tu-pian.md)
 
 ## 插件教程
 
 * [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
-  * [坐在方块](cha-jian-jiao-cheng/yu-le-lei/zuo-zai-fang-kuai.md)
-  * [MCMMO](cha-jian-jiao-cheng/yu-le-lei/mcmmo.md)
-  * [皮肤](cha-jian-jiao-cheng/yu-le-lei/pi-fu.md)
-  * [点歌插件](cha-jian-jiao-cheng/yu-le-lei/dian-ge-cha-jian.md)
-  * [更多合成](cha-jian-jiao-cheng/yu-le-lei/geng-duo-he-cheng.md)
-  * [更多头颅](cha-jian-jiao-cheng/yu-le-lei/geng-duo-tou-lu.md)
-  * [盔甲架编辑](cha-jian-jiao-cheng/yu-le-lei/kui-jia-jia-bian-ji.md)
-  * [破基岩](cha-jian-jiao-cheng/yu-le-lei/po-ji-yan.md)
+  * [坐在方块](cha-jian-jiao-cheng/zuo-zai-fang-kuai.md)
+  * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
+  * [皮肤](cha-jian-jiao-cheng/pi-fu.md)
+  * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
+  * [更多合成](cha-jian-jiao-cheng/geng-duo-he-cheng.md)
+  * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
+  * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
+  * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
 * [安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
-  * [查询插件](cha-jian-jiao-cheng/an-quan-lei/cha-xun-cha-jian.md)
+  * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
 * [经济类](cha-jian-jiao-cheng/jing-ji-lei/README.md)
-  * [每日签到](cha-jian-jiao-cheng/jing-ji-lei/mei-ri-qian-dao.md)
+  * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
 
 ## 服务器规则
 
@@ -72,4 +73,4 @@
 * [聊天扩展](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/liao-tian-kuo-zhan.md)
 * [原版扩展](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/yuan-ban-kuo-zhan.md)
 * [开启正版自动登录](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/kai-qi-zheng-ban-zi-dong-deng-lu.md)
-* [付费传送](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/fu-fei-chuan-song.md)
+* [付费传送](cha-jian-jiao-cheng/fu-fei-chuan-song.md)
