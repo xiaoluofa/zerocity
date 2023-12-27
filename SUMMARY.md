@@ -4,15 +4,16 @@
 
 ## 赞助教程
 
-* [赞助](zan-zhu.md)
+* [💸 赞助](zan-zhu.md)
 * [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
   * [自定义前缀](zi-ding-yi-qian-zhui.md)
   * [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
+  * [铁砧修改颜色与描述](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md)
 
 ## 插件教程
 
-* [基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
-* [娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
+* [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
+* [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
   * [坐在方块](cha-jian-jiao-cheng/zuo-zai-fang-kuai.md)
   * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
   * [皮肤](cha-jian-jiao-cheng/pi-fu.md)
@@ -21,10 +22,14 @@
   * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
   * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
   * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
-* [安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
+* [🚔 安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
   * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
-* [经济类](cha-jian-jiao-cheng/jing-ji-lei/README.md)
+* [🛒 经济类](cha-jian-jiao-cheng/jing-ji-lei/README.md)
   * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
+
+## 登录服介绍
+
+* [🛒 登录服插件](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian.md)
 
 ## 服务器规则
 
