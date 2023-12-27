@@ -1,8 +1,11 @@
 # Table of contents
 
 * [零落服务器](README.md)
-* [赞助](zan-zhu.md)
-* [自定义前缀](zi-ding-yi-qian-zhui.md)
+
+## 赞助教程
+
+* [赞助](zan-zhu-jiao-cheng/zan-zhu.md)
+* [自定义前缀](zan-zhu-jiao-cheng/zi-ding-yi-qian-zhui.md)
 
 ## 插件教程
 
