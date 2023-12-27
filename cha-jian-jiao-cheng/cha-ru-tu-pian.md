@@ -14,6 +14,10 @@ layout:
 
 # 插入图片
 
+<mark style="color:green;">**服务器只收称号 自定义彩色物品名称 地图画等不影响平衡的赞助**</mark>
+
+<mark style="color:green;">**赞助可以让服务器更长久，给予一定的奖励望理解**</mark>
+
 <mark style="background-color:red;">禁止任何不雅图片以及可能有问题的图片，违者封禁</mark>
 
 | 类型  | 数量  |
