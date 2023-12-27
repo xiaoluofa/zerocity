@@ -4,6 +4,8 @@
 
 <figure><img src="https://s2.loli.net/2023/12/27/tu3KNHPUfkgYI8l.png" alt=""><figcaption></figcaption></figure>
 
-修改描述需要一张纸
+描述需要一张纸
 
 <figure><img src="https://s2.loli.net/2023/12/27/YgensqJAaRdvNfS.png" alt=""><figcaption></figcaption></figure>
+
+清除描述只需要把武器放中间
