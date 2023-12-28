@@ -1,6 +1,7 @@
 # Table of contents
 
 * [零落服务器](README.md)
+* [无法进入服务器解决办法](wu-fa-jin-ru-fu-wu-qi-jie-jue-ban-fa.md)
 
 ## 赞助教程
 
