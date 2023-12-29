@@ -24,3 +24,8 @@ layout:
 
 `/co i`
 
+<figure><img src="https://s2.loli.net/2023/12/29/fcQVEW3La6rGRwe.png" alt=""><figcaption></figcaption></figure>
+
+可以看到神里绫华往箱子放了钻石。
+
+<figure><img src="https://s2.loli.net/2023/12/29/yaCnSG3T7Nwlepb.png" alt=""><figcaption></figcaption></figure>
