@@ -26,3 +26,5 @@
 13.107.246.31 redstone-launcher.mojang.com #UHE_
 13.107.246.31 api.mojang.com #UHE_
 ```
+
+[<mark style="color:green;">刷新dns</mark>](https://zhuanlan.zhihu.com/p/476257556)<mark style="color:green;">或者重启电脑生效</mark>\ <mark style="color:green;">电脑小白推荐直接重启</mark>
