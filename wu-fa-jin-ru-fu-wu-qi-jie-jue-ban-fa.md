@@ -15,7 +15,7 @@
 在文件最下面添加，然后保存
 
 ```
-13.225.99.128 authserver.mojang.com #UHE_
+13.107.246.31 authserver.mojang.com #UHE_
 13.107.246.31 resources.download.minecraft.net #UHE_
 13.107.246.31 libraries.minecraft.net #UHE_
 13.107.246.31 launcher.mojang.com #UHE_
