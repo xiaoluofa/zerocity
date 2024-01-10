@@ -15,6 +15,8 @@
 
 * [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
+  * [常用指令](cha-jian-jiao-cheng/yu-le-lei/chang-yong-zhi-ling.md)
+  * [零落工具箱](cha-jian-jiao-cheng/yu-le-lei/ling-la-gong-ju-xiang.md)
   * [坐在方块](cha-jian-jiao-cheng/zuo-zai-fang-kuai.md)
   * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
   * [皮肤](cha-jian-jiao-cheng/pi-fu.md)
