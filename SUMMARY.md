@@ -36,6 +36,7 @@
 
 * [🛒 登录服插件](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/README.md)
   * [原版扩展](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/yuan-ban-kuo-zhan.md)
+  * [更多附魔](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/geng-duo-fu-mo.md)
 
 ## 服务器规则
 
@@ -79,7 +80,6 @@
   * [杂项](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/za-xiang/README.md)
     * [查询插件](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/za-xiang/cha-xun-cha-jian.md)
     * [点歌插件](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/za-xiang/dian-ge-cha-jian.md)
-  * [更多附魔](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/geng-duo-fu-mo.md)
   * [自定义合成](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/zi-ding-yi-he-cheng.md)
   * [聊天扩展](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/liao-tian-kuo-zhan.md)
   * [开启正版自动登录](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/kai-qi-zheng-ban-zi-dong-deng-lu.md)
