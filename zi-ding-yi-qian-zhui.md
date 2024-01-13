@@ -24,6 +24,12 @@ layout:
 
 **使用指令打开菜单即可。**<mark style="color:red;">**请注意设置后不能更改！如要获得新的请重新购买\~，旧的会保留在仓库。**</mark>
 
+<mark style="background-color:red;">**不要超过6个字符**</mark>
+
+<mark style="background-color:red;">**不要超过6个字符**</mark>
+
+<mark style="background-color:red;">**不要超过6个字符**</mark>
+
 ```
 /plt shop
 ```
