@@ -86,3 +86,4 @@
   * [开启正版自动登录](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/kai-qi-zheng-ban-zi-dong-deng-lu.md)
   * [付费传送](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/fu-fei-chuan-song.md)
   * [装饰头颅](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/zhuang-shi-tou-lu.md)
+  * [💸 Copy of 赞助](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/copy-of-zan-zhu.md)
