@@ -33,4 +33,6 @@ layout:
 
 不在使用爱发电，爱发电的分成比例太高了呜呜呜
 
+图片无法加载请查看群相册，赞助
+
 <figure><img src="https://s2.loli.net/2024/01/15/Oqa1bwxGj5WKTFB.png" alt=""><figcaption></figcaption></figure>
