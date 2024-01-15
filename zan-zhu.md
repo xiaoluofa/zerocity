@@ -24,11 +24,13 @@ layout:
 | -------------------------------------------------------------------------------------- | ---------- | --------------------------------- |
 | [前缀](zi-ding-yi-qian-zhui.md)                                                          | 100RMB     | 设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀 |
 | [自定义图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)                                         | 10RMB\*10张 | 请最少购买10张                          |
-| [物品描述与名称](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md) | 50RMB      | 无                                 |
+| [物品描述与名称](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md) | 100RMB     | 无                                 |
 | [游戏ID-渐变](zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-you-xi-id-yan-se.md)         | 100RMB     | 渐变与彩色，二选一即可，如需加粗请单独购买             |
 | 游戏ID-彩色                                                                                | 50RMB      | 渐变与彩色，二选一即可，如需加粗请单独购买             |
 | 游戏ID-加粗                                                                                | 25RMB      | 加粗ID                              |
 
 **请赞助后联系腐竹QQ：1121927277**
+
+不在使用爱发电，爱发电的分成比例太高了呜呜呜
 
 <figure><img src="https://s2.loli.net/2024/01/15/Oqa1bwxGj5WKTFB.png" alt=""><figcaption></figcaption></figure>

@@ -16,4 +16,6 @@ layout:
 
 **效果图**
 
+**此为渐变+加粗**
+
 <figure><img src="https://s2.loli.net/2024/01/15/9smveRkdiCpGXIz.png" alt=""><figcaption></figcaption></figure>
