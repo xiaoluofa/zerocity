@@ -17,6 +17,7 @@
 
 * [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
+  * [云地图相关](cha-jian-jiao-cheng/yu-le-lei/yun-di-tu-xiang-guan.md)
   * [小地图丢失修复](cha-jian-jiao-cheng/yu-le-lei/xiao-di-tu-diu-shi-xiu-fu.md)
   * [常用指令](cha-jian-jiao-cheng/yu-le-lei/chang-yong-zhi-ling.md)
   * [零落工具箱](cha-jian-jiao-cheng/yu-le-lei/ling-la-gong-ju-xiang.md)
