@@ -22,7 +22,7 @@ layout:
 
 ## 指令
 
-/imageframe create \<name> \<url> \<width> \<height>- 创建新的图像地图 注width和height为mc方块单位，即1为占一个方块 ，每位玩家最多可创建20个图像，<mark style="background-color:green;">请确保背包有足够的空间,以及足够的空地图</mark>
+/imageframe create \<name> \<url> \<width> \<height>- 创建新的图像地图 注width和height为mc方块单位，即1为占一个方块 ，<mark style="background-color:green;">请确保背包有足够的空间,以及足够的空地图</mark>
 
 /imageframe info - 获取与你所持有的图像地图相关的信息&#x20;
 
