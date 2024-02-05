@@ -43,6 +43,7 @@
 * [🛒 登录服插件](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/README.md)
   * [原版扩展](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/yuan-ban-kuo-zhan.md)
   * [更多附魔](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/geng-duo-fu-mo.md)
+  * [登录服世界](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/deng-lu-fu-shi-jie.md)
 
 ## 服务器规则
 
