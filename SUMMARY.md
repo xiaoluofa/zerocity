@@ -17,6 +17,7 @@
 
 * [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
+* [假人插件](cha-jian-jiao-cheng/jia-ren-cha-jian.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
   * [旗帜](cha-jian-jiao-cheng/yu-le-lei/qi-zhi.md)
   * [几个小功能\~](cha-jian-jiao-cheng/yu-le-lei/ji-ge-xiao-gong-neng.md)
