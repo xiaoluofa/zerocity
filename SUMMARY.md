@@ -2,6 +2,7 @@
 
 * [零落服务器](README.md)
 * [无法进入服务器解决办法](wu-fa-jin-ru-fu-wu-qi-jie-jue-ban-fa.md)
+* [聚落申请](ju-la-shen-qing.md)
 
 ## 赞助教程
 
