@@ -23,6 +23,7 @@ layout:
 | 项目，点击可以查看                                                                              | 价格         | 描述                                |
 | -------------------------------------------------------------------------------------- | ---------- | --------------------------------- |
 | [前缀](zi-ding-yi-qian-zhui.md)                                                          | 100RMB     | 设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀 |
+| 前缀加粗                                                                                   | 50RMB      | 将自定义前缀加粗                          |
 | [自定义图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)                                         | 10RMB\*10张 | 请最少购买10张                          |
 | [物品描述与名称](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md) | 100RMB     | 无                                 |
 | [游戏ID-渐变](zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-you-xi-id-yan-se.md)         | 100RMB     | 渐变与彩色，二选一即可，如需加粗请单独购买             |
