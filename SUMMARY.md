@@ -16,6 +16,7 @@
 
 ## 插件教程
 
+* [城镇圈地](cha-jian-jiao-cheng/cheng-zhen-quan-di.md)
 * [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
 * [假人插件](cha-jian-jiao-cheng/jia-ren-cha-jian.md)
