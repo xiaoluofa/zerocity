@@ -58,6 +58,10 @@ layout:
 
 邀请/town invite 玩家名称
 
+拒绝所有邀请/invite deny all
+
+接受/invite accept 城镇名称
+
 
 
 管理
