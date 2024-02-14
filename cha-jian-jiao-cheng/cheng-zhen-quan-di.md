@@ -14,11 +14,19 @@ layout:
 
 # 城镇圈地
 
+创建需花费1000，每圈一个区块需要100，目前还没配置好，可能不完善，不知道圈地有没有上限。
+
+请第一时间向腐竹反馈！
+
 
 
 创建城镇/town new 城镇名称
 
 删除城镇/town delete 城镇名称
+
+设置城镇出生点/town set spawn
+
+传送到城镇出生点/town spawn 城镇名称
 
 
 
@@ -27,6 +35,14 @@ layout:
 圈下脚下这个区块，必须与城镇接壤/town claim
 
 不接壤/town claim outpost
+
+高级圈地模式
+
+自动圈脚下的地/res set mode townclaim
+
+自动删除已圈了的地/res set mode townunclaim
+
+退出高级圈地模式/res set mode clear
 
 
 
@@ -50,4 +66,4 @@ layout:
 
 移交镇长/town set mayor 玩家名称
 
-t/town trust add/remove 玩家名称
+添加或移除信任玩家/town trust add/remove 玩家名称
