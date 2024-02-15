@@ -20,6 +20,10 @@ layout:
 
 
 
+<mark style="color:red;">**不要尝试自己不知道且这里没有提到的指令！否则后果自负！**</mark>
+
+
+
 创建城镇/town new 城镇名称
 
 删除城镇/town delete 城镇名称
@@ -71,3 +75,5 @@ layout:
 移交镇长/town set mayor 玩家名称
 
 添加或移除信任玩家/town trust add/remove 玩家名称
+
+开启关闭领地内爆炸/town toggle explosion
