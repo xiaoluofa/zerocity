@@ -77,3 +77,5 @@ layout:
 添加或移除信任玩家/town trust add/remove 玩家名称
 
 开启关闭领地内爆炸/town toggle explosion
+
+开启关闭领地内刷怪/town toggle mobs   【高危操作！！！！可能导致领地所有怪物消失，包括命名
