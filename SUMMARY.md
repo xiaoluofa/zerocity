@@ -16,10 +16,9 @@
 
 ## 插件教程
 
-* [城镇圈地](cha-jian-jiao-cheng/cheng-zhen-quan-di.md)
 * [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
-* [假人插件](cha-jian-jiao-cheng/jia-ren-cha-jian.md)
+* [基岩版必看！](cha-jian-jiao-cheng/ji-yan-ban-bi-kan.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
   * [旗帜](cha-jian-jiao-cheng/yu-le-lei/qi-zhi.md)
   * [几个小功能\~](cha-jian-jiao-cheng/yu-le-lei/ji-ge-xiao-gong-neng.md)
@@ -34,8 +33,10 @@
   * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
   * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
   * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
+  * [假人插件](cha-jian-jiao-cheng/yu-le-lei/jia-ren-cha-jian.md)
 * [🚔 安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
   * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
+  * [城镇圈地](cha-jian-jiao-cheng/an-quan-lei/cheng-zhen-quan-di.md)
 * [🛒 经济类](cha-jian-jiao-cheng/jing-ji-lei/README.md)
   * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
 * [奖励领取类](cha-jian-jiao-cheng/jiang-li-ling-qu-lei/README.md)
