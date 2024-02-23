@@ -58,7 +58,7 @@ layout:
 
 ## 如何加入
 
-白名单审核群：Q群751317809，并填写[申请表](https://docs.qq.com/form/page/DWVNIQ1RMVXFwcEhM#/fill)
+白名单审核群：Q群751317809
 
 ## 服务器历史
 
