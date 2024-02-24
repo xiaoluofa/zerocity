@@ -16,7 +16,7 @@
 
 ## 插件教程
 
-* [⚙ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
+* [⚙️ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
 * [基岩版必看！](cha-jian-jiao-cheng/ji-yan-ban-bi-kan.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
@@ -59,7 +59,7 @@
 
 ## 更新日志
 
-* [⚙ 插件更新日志记录](geng-xin-ri-zhi/cha-jian-geng-xin-ri-zhi-ji-lu.md)
+* [⚙️ 插件更新日志记录](geng-xin-ri-zhi/cha-jian-geng-xin-ri-zhi-ji-lu.md)
 
 ## 封神榜
 
