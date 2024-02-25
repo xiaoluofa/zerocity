@@ -48,6 +48,7 @@
   * [原版扩展](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/yuan-ban-kuo-zhan.md)
   * [更多附魔](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/geng-duo-fu-mo.md)
   * [登录服世界](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/deng-lu-fu-shi-jie.md)
+  * [时间金钱](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/shi-jian-jin-qian.md)
 
 ## 服务器规则
 
@@ -85,7 +86,6 @@
   * [经济相关的插件](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/jing-ji-xiang-guan-de-cha-jian/README.md)
     * [系统商店](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/jing-ji-xiang-guan-de-cha-jian/xi-tong-shang-dian.md)
   * [经济相关的插件](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/jing-ji-xiang-guan-de-cha-jian-1/README.md)
-    * [时间金钱](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/jing-ji-xiang-guan-de-cha-jian-1/shi-jian-jin-qian.md)
     * [系统商店](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/jing-ji-xiang-guan-de-cha-jian-1/xi-tong-shang-dian.md)
   * [服务器材质包安装教程](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/fu-wu-qi-cai-zhi-bao-an-zhuang-jiao-cheng.md)
   * [杂项](you-yu-he-xin-qie-huan-xia-mian-nei-rong-quan-bu-guo-shi/quan-bu-guo-shi-bu-yao-cha-kan/za-xiang/README.md)
