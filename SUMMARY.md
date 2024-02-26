@@ -8,6 +8,7 @@
 
 * [💸 赞助](zan-zhu.md)
 * [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
+  * [聚落后缀](zan-zhu-jiao-cheng/zan-zhu-quan-xian/ju-la-hou-zhui.md)
   * [自定义前缀](zi-ding-yi-qian-zhui.md)
   * [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
   * [铁砧修改颜色与描述](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md)
