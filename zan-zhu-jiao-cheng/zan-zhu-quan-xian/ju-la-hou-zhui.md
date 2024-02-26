@@ -18,6 +18,8 @@ layout:
 
 <mark style="color:red;">该功能仅聚落首领可用，由于一旦加入自动获得后缀，所以请不要邀请没有购买的成员加入。</mark>
 
+<mark style="color:red;">每一个加入的人都必须购买，不是一个人买全聚落使用。</mark>
+
 /team create name 创建团队
 
 /team invite name 邀请加入团队
