@@ -14,6 +14,8 @@ layout:
 
 # 聚落后缀
 
+<mark style="color:red;">必须购买才可以使用，私自使用发现会被封禁账号。</mark>
+
 <mark style="color:red;">该功能仅聚落首领可用，由于一旦加入自动获得后缀，所以请不要邀请没有购买的成员加入。</mark>
 
 /team create name 创建团队
