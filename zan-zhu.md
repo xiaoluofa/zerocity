@@ -20,17 +20,7 @@ layout:
 
 <mark style="color:purple;">**对价格进行了调整，以前赞助的玩家不受影响\~**</mark>
 
-| 项目，点击可以查看                                                                              | 价格         | 描述                                |
-| -------------------------------------------------------------------------------------- | ---------- | --------------------------------- |
-| [前缀](zi-ding-yi-qian-zhui.md)                                                          | 100RMB     | 设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀 |
-| 前缀加粗                                                                                   | 50RMB      | 将自定义前缀加粗                          |
-| [自定义图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)                                         | 10RMB\*10张 | 请最少购买10张                          |
-| [物品描述与名称](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md) | 100RMB     | 无                                 |
-| [游戏ID-渐变](zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-you-xi-id-yan-se.md)         | 100RMB     | 渐变与彩色，二选一即可，如需加粗请单独购买             |
-| 游戏ID-彩色                                                                                | 50RMB      | 渐变与彩色，二选一即可，如需加粗请单独购买             |
-| 游戏ID-加粗                                                                                | 25RMB      | 加粗ID                              |
-| 聚落前缀-渐变                                                                                | 40RMB      | 设置后无法修改，请使用聚落统一格式                 |
-| 聚落前缀-彩色                                                                                | 20RMB      | 设置后无法修改，请使用聚落统一格式                 |
+<table><thead><tr><th width="338">项目，点击可以查看</th><th>价格</th><th>描述</th></tr></thead><tbody><tr><td><a href="zi-ding-yi-qian-zhui.md">前缀</a></td><td>100RMB</td><td>设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀</td></tr><tr><td>前缀加粗</td><td>50RMB</td><td>将自定义前缀加粗</td></tr><tr><td><a href="cha-jian-jiao-cheng/cha-ru-tu-pian.md">自定义图片</a></td><td>50RMB*60张</td><td>请最少购买60张</td></tr><tr><td><a href="zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-yan-se-yu-miao-shu.md">物品描述与名称</a></td><td>100RMB</td><td>无</td></tr><tr><td><a href="zan-zhu-jiao-cheng/zan-zhu-quan-xian/zi-ding-yi-you-xi-id-yan-se.md">游戏ID-渐变</a></td><td>100RMB</td><td>渐变与彩色，二选一即可，如需加粗请单独购买</td></tr><tr><td>游戏ID-彩色</td><td>50RMB</td><td>渐变与彩色，二选一即可，如需加粗请单独购买</td></tr><tr><td>游戏ID-加粗</td><td>50RMB</td><td>加粗ID</td></tr><tr><td>聚落前缀-渐变</td><td>40RMB</td><td>设置后无法修改，请使用聚落统一格式</td></tr><tr><td>聚落前缀-彩色</td><td>20RMB</td><td>设置后无法修改，请使用聚落统一格式</td></tr></tbody></table>
 
 **请赞助后联系腐竹QQ：1121927277**
 
