@@ -22,6 +22,8 @@ layout:
 
 <mark style="color:red;">禁用了：飞行，末影龙，凋零，监守者</mark>
 
+<mark style="color:green;">需要杀死生物来获取伪装，请勿恶意杀人，请使用/request</mark>
+
 飞行后面会在特定时间开放
 
 服务器可用指令为：
