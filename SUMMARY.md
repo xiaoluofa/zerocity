@@ -21,6 +21,7 @@
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
 * [基岩版必看！](cha-jian-jiao-cheng/ji-yan-ban-bi-kan.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
+  * [伪装](cha-jian-jiao-cheng/yu-le-lei/wei-zhuang.md)
   * [旗帜](cha-jian-jiao-cheng/yu-le-lei/qi-zhi.md)
   * [几个小功能\~](cha-jian-jiao-cheng/yu-le-lei/ji-ge-xiao-gong-neng.md)
   * [云地图相关](cha-jian-jiao-cheng/yu-le-lei/yun-di-tu-xiang-guan.md)
