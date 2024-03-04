@@ -20,6 +20,7 @@
 * [⚙️ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
 * [常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
 * [基岩版必看！](cha-jian-jiao-cheng/ji-yan-ban-bi-kan.md)
+* [全球语音](cha-jian-jiao-cheng/quan-qiu-yu-yin.md)
 * [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
   * [伪装](cha-jian-jiao-cheng/yu-le-lei/wei-zhuang.md)
   * [旗帜](cha-jian-jiao-cheng/yu-le-lei/qi-zhi.md)
