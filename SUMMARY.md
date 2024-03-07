@@ -36,7 +36,6 @@
   * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
   * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
   * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
-  * [假人插件](cha-jian-jiao-cheng/yu-le-lei/jia-ren-cha-jian.md)
 * [🚔 安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
   * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
   * [城镇圈地](cha-jian-jiao-cheng/an-quan-lei/cheng-zhen-quan-di.md)
