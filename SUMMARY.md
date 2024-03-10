@@ -39,8 +39,6 @@
 * [🚔 安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
   * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
   * [城镇圈地](cha-jian-jiao-cheng/an-quan-lei/cheng-zhen-quan-di.md)
-* [🛒 经济类](cha-jian-jiao-cheng/jing-ji-lei/README.md)
-  * [每日签到](cha-jian-jiao-cheng/mei-ri-qian-dao.md)
 * [奖励领取类](cha-jian-jiao-cheng/jiang-li-ling-qu-lei/README.md)
   * [三连奖励](cha-jian-jiao-cheng/jiang-li-ling-qu-lei/san-lian-jiang-li.md)
 
