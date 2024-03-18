@@ -1,8 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 铁砧修改颜色与描述
 
-<mark style="color:green;">**服务器只收称号 自定义彩色物品名称 地图画等不影响平衡的赞助**</mark>
-
-<mark style="color:green;">**赞助可以让服务器更长久，给予一定的奖励望理解**</mark>
+<mark style="color:red;">理性赞助</mark>
 
 请前往商店服使用
 
