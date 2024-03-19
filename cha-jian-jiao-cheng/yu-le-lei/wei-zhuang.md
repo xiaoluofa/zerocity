@@ -37,3 +37,7 @@ layout:
 /request deny 拒绝请求
 
 /request accept 接受请求
+
+
+
+注意: 这些命令只在登录服可用，生存服必须安装mod，并且伪装请求相关功能不可用
