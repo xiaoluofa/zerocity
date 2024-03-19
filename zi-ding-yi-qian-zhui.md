@@ -16,7 +16,7 @@ layout:
 
 <mark style="color:red;">理性赞助</mark>
 
-<table><thead><tr><th width="338">项目</th><th>价格</th><th>描述</th></tr></thead><tbody><tr><td>前缀单彩色</td><td>100RMB</td><td>设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀</td></tr><tr><td>前缀渐变（多个颜色</td><td>50RMB</td><td></td></tr><tr><td>前缀加粗</td><td>50RMB</td><td>将自定义前缀加粗</td></tr><tr><td>前缀下划线</td><td>50RMB</td><td></td></tr><tr><td>前缀斜体</td><td>50RMB</td><td></td></tr><tr><td>自定义前缀边框</td><td>200RMB</td><td></td></tr><tr><td>全部购买</td><td>400RMB</td><td>含以上全部</td></tr></tbody></table>
+<table><thead><tr><th width="338">项目</th><th>价格</th><th>描述</th></tr></thead><tbody><tr><td>前缀单彩色</td><td>100RMB</td><td>设置后无法修改，每100获得一个新的前缀，可以随时切换已拥有的前缀</td></tr><tr><td>前缀渐变</td><td>150RMB</td><td></td></tr><tr><td>前缀加粗</td><td>50RMB</td><td>将自定义前缀加粗</td></tr><tr><td>前缀下划线</td><td>50RMB</td><td></td></tr><tr><td>前缀斜体</td><td>50RMB</td><td></td></tr><tr><td>自定义前缀边框</td><td>200RMB</td><td></td></tr><tr><td>全部购买</td><td>400RMB</td><td>含以上全部</td></tr></tbody></table>
 
 请前往商店服使用
 
