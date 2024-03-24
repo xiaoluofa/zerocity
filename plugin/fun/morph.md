@@ -20,11 +20,11 @@ layout:
 
 然后在设置里面找到快捷键，打开GUI进行设置
 
-<mark style="color:red;">禁用了：飞行，末影龙，凋零，监守者</mark>
+<mark style="color:red;">禁用了：末影龙，凋零，监守者</mark>
 
 <mark style="color:green;">需要杀死生物来获取伪装，请勿恶意杀人，请使用/request</mark>
 
-飞行在每天晚上8点到9点半开放，仅限主世界
+飞行在每天晚上9点到9点半开放，仅限主世界
 
 服务器可用指令为：
 
