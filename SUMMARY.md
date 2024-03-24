@@ -1,7 +1,14 @@
 # Table of contents
 
 * [零落服务器](README.md)
-* [无法进入服务器解决办法](wu-fa-jin-ru-fu-wu-qi-jie-jue-ban-fa.md)
+* [无法进入服务器解决办法](cant-connect-to-server/README.md)
+  * [无效会话](cant-connect-to-server/invalid-session.md)
+  * [Profile Not Found](cant-connect-to-server/profile-not-found.md)
+  * [刷新DNS](cant-connect-to-server/flush-dns.md)
+  * [修改DNS](cant-connect-to-server/change-dns/README.md)
+    * [Windows10](cant-connect-to-server/change-dns/windows10.md)
+    * [Windows11](cant-connect-to-server/change-dns/windows11.md)
+    * [Android](cant-connect-to-server/change-dns/android.md)
 * [聚落申请](ju-la-shen-qing.md)
 
 ## 赞助教程
@@ -16,49 +23,49 @@
   * [聊天颜色](zan-zhu-jiao-cheng/zan-zhu-quan-xian/liao-tian-yan-se.md)
 * [服务器每月花费](zan-zhu-jiao-cheng/fu-wu-qi-mei-yue-hua-fei.md)
 
-## 插件教程
+## 插件教程 <a href="#plugin" id="plugin"></a>
 
-* [⚙️ 基础插件列表](cha-jian-jiao-cheng/ji-chu-cha-jian-lie-biao.md)
-* [🌟常用指令](cha-jian-jiao-cheng/chang-yong-zhi-ling.md)
-* [🕵️ 跨服命令](cha-jian-jiao-cheng/kua-fu-ming-ling.md)
-* [📱基岩版必看！](cha-jian-jiao-cheng/ji-yan-ban-bi-kan.md)
-* [🎙️全球语音](cha-jian-jiao-cheng/quan-qiu-yu-yin.md)
-* [🎮 娱乐类](cha-jian-jiao-cheng/yu-le-lei/README.md)
-  * [装饰](cha-jian-jiao-cheng/yu-le-lei/decorate.md)
-  * [伪装](cha-jian-jiao-cheng/yu-le-lei/wei-zhuang.md)
-  * [旗帜](cha-jian-jiao-cheng/yu-le-lei/qi-zhi.md)
-  * [几个小功能\~](cha-jian-jiao-cheng/yu-le-lei/ji-ge-xiao-gong-neng.md)
-  * [小地图丢失修复](cha-jian-jiao-cheng/yu-le-lei/xiao-di-tu-diu-shi-xiu-fu.md)
-  * [零落工具箱](cha-jian-jiao-cheng/yu-le-lei/ling-la-gong-ju-xiang.md)
-  * [坐在方块](cha-jian-jiao-cheng/zuo-zai-fang-kuai.md)
-  * [MCMMO](cha-jian-jiao-cheng/mcmmo.md)
-  * [皮肤](cha-jian-jiao-cheng/pi-fu.md)
-  * [点歌插件](cha-jian-jiao-cheng/dian-ge-cha-jian.md)
-  * [更多合成](cha-jian-jiao-cheng/geng-duo-he-cheng.md)
-  * [更多头颅](cha-jian-jiao-cheng/geng-duo-tou-lu.md)
-  * [盔甲架编辑](cha-jian-jiao-cheng/kui-jia-jia-bian-ji.md)
-  * [破基岩](cha-jian-jiao-cheng/po-ji-yan.md)
-* [🚔 安全类](cha-jian-jiao-cheng/an-quan-lei/README.md)
-  * [查询插件](cha-jian-jiao-cheng/cha-xun-cha-jian.md)
-  * [城镇圈地](cha-jian-jiao-cheng/an-quan-lei/cheng-zhen-quan-di.md)
-* [奖励领取类](cha-jian-jiao-cheng/jiang-li-ling-qu-lei/README.md)
-  * [三连奖励](cha-jian-jiao-cheng/jiang-li-ling-qu-lei/san-lian-jiang-li.md)
+* [⚙️ 基础插件列表](plugin/basic.md)
+* [🌟常用指令](plugin/command.md)
+* [🕵️ 跨服命令](plugin/change-serever.md)
+* [📱基岩版必看！](plugin/bedrock.md)
+* [🎙️全球语音](plugin/voice.md)
+* [🎮 娱乐类](plugin/fun/README.md)
+  * [装饰](plugin/fun/decorate.md)
+  * [伪装](plugin/fun/morph.md)
+  * [旗帜](plugin/fun/banner.md)
+  * [几个小功能\~](plugin/fun/little.md)
+  * [小地图丢失修复](plugin/fun/map-fix.md)
+  * [零落工具箱](plugin/fun/utils.md)
+  * [坐在方块](plugin/fun/sit.md)
+  * [MCMMO](plugin/fun/mcmmo.md)
+  * [皮肤](plugin/fun/skin.md)
+  * [点歌](plugin/fun/music.md)
+  * [更多合成](plugin/fun/more-craft.md)
+  * [更多头颅](plugin/fun/hdb.md)
+  * [盔甲架编辑](plugin/fun/armor-stand.md)
+  * [破基岩](plugin/fun/bedrock.md)
+* [🚔 安全类](plugin/protect/README.md)
+  * [查询插件](plugin/protect/core.md)
+  * [城镇圈地](plugin/protect/towny.md)
+* [奖励领取类](plugin/reward/README.md)
+  * [三连奖励](plugin/reward/bilibili.md)
 
-## 登录服介绍
+## 登录服介绍 <a href="#login" id="login"></a>
 
-* [🛒 登录服插件](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/README.md)
-  * [原版扩展](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/yuan-ban-kuo-zhan.md)
-  * [更多附魔](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/geng-duo-fu-mo.md)
-  * [登录服世界](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/deng-lu-fu-shi-jie.md)
-  * [时间金钱](deng-lu-fu-jie-shao/deng-lu-fu-cha-jian/shi-jian-jin-qian.md)
+* [🛒 登录服插件](login/plugin/README.md)
+  * [原版扩展](login/plugin/vanilla.md)
+  * [更多附魔](login/plugin/enchant.md)
+  * [登录服世界](login/plugin/deng-lu-fu-shi-jie.md)
+  * [时间金钱](login/plugin/money.md)
 
-## 服务器规则
+## 服务器规则 <a href="#rules" id="rules"></a>
 
-* [📃 基本规则](fu-wu-qi-gui-ze/ji-ben-gui-ze.md)
+* [📃 基本规则](rules/rule.md)
 
-## QA问答
+## QA问答 <a href="#qa" id="qa"></a>
 
-* [📃 你可能想知道的](qa-wen-da/ni-ke-neng-xiang-zhi-dao-de.md)
+* [📃 你可能想知道的](qa/may.md)
 
 ## 更新日志
 

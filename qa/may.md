@@ -29,3 +29,9 @@ A: b站(或其他平台)搜索paper刷线机。
 <mark style="background-color:green;">**Q: 服务器能加某某mod和某某插件吗?**</mark>
 
 A: 首先，服务器是插件服，不可能加mod。其次，服务器核心为folia系核心，绝大多数插件不兼容，加上其他考虑，所以请不要能不能加某某插件和某某mod了。
+
+
+
+<mark style="background-color:green;">**Q: 我沒錢，能找服主充值嗎?**</mark>
+
+A: 游戲幣不可通過充值獲取，僅可通過: 登錄服簽到, 登錄服在綫時長, 限量回收獲取

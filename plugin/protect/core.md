@@ -42,7 +42,7 @@ layout:
 
 **提示:** 不建议输入太大的范围，插件无法查询那么大的范围，一般建议最大范围为30
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>命令示例, 3为本次查询的范围</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>命令示例, 3为本次查询的范围</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>可以看到PowerAre在这附近丢出又捡回了26个面包</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>可以看到PowerAre在这附近丢出又捡回了26个面包</p></figcaption></figure>
 
