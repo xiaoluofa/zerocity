@@ -70,7 +70,7 @@
 
 ## 更新日志
 
-* [⚙️ 插件更新日志记录](geng-xin-ri-zhi/cha-jian-geng-xin-ri-zhi-ji-lu.md)
+* [⚙️ 服务器更新日志记录](geng-xin-ri-zhi/fu-wu-qi-geng-xin-ri-zhi-ji-lu.md)
 
 ## 封神榜
 
