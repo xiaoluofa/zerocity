@@ -15,6 +15,7 @@
 
 * [💸 赞助](zan-zhu.md)
 * [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
+  * [图片ID](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tu-pian-id.md)
   * [月卡](zan-zhu-jiao-cheng/zan-zhu-quan-xian/yue-ka.md)
   * [自定义前缀](zi-ding-yi-qian-zhui.md)
   * [聚落后缀](zan-zhu-jiao-cheng/zan-zhu-quan-xian/ju-la-hou-zhui.md)
