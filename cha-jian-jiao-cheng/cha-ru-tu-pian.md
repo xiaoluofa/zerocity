@@ -30,6 +30,8 @@ layout:
 
 /imageframe list - 列出所有自己创建的预先存在的图像地图
 
+<mark style="color:green;">图片支持最大36</mark>
+
 ## 一个简单的教程
 
 图片可以来自bilibili，那么你只需要在动态发一张图片,然后复制链接即可啦，图片所占多少方块需要自己预估哦。
