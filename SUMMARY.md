@@ -16,7 +16,7 @@
 * [💸 赞助](zan-zhu.md)
 * [赞助权限](zan-zhu-jiao-cheng/zan-zhu-quan-xian/README.md)
   * [图片ID](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tu-pian-id.md)
-  * [星海之旅](zan-zhu-jiao-cheng/zan-zhu-quan-xian/xing-hai-zhi-lv.md)
+  * [星海之旅](zan-zhu-jiao-cheng/zan-zhu-quan-xian/yue-ka.md)
   * [自定义前缀](zi-ding-yi-qian-zhui.md)
   * [插入图片](cha-jian-jiao-cheng/cha-ru-tu-pian.md)
   * [铁砧修改物品颜色](zan-zhu-jiao-cheng/zan-zhu-quan-xian/tie-zhen-xiu-gai-wu-pin-yan-se.md)

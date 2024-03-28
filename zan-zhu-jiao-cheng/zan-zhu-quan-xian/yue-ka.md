@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 月卡
+# 星海之旅
 
 定价：30RMB
 
