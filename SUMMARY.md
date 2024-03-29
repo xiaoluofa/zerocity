@@ -9,7 +9,7 @@
     * [Windows10](cant-connect-to-server/change-dns/windows10.md)
     * [Windows11](cant-connect-to-server/change-dns/windows11.md)
     * [Android](cant-connect-to-server/change-dns/android.md)
-* [聚落申请](ju-la-shen-qing.md)
+* [WARP申请](warp-shen-qing.md)
 
 ## 赞助教程
 
@@ -67,6 +67,7 @@
 ## QA问答 <a href="#qa" id="qa"></a>
 
 * [📃 你可能想知道的](qa/may.md)
+* [➕外置登录教程](qa/wai-zhi-deng-lu-jiao-cheng.md)
 
 ## 更新日志
 
