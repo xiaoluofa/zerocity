@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ➕外置登录教程
+# ➕ 外置登录教程
 
 备注：外置登录必须使用指令[修改皮肤](../plugin/fun/skin.md)，<mark style="color:red;">外置登录网站修改，服务器其他玩家是看不到的</mark>。
 
