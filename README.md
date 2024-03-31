@@ -42,7 +42,7 @@ layout:
 
 正版验证: 有
 
-核心: luminol (folia系)
+核心: folia系
 
 视距: 8&#x20;
 
