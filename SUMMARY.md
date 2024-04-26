@@ -27,10 +27,10 @@
 ## 插件教程 <a href="#plugin" id="plugin"></a>
 
 * [⚙️ 基础插件列表](plugin/basic.md)
-* [🌟常用指令](plugin/command.md)
+* [🌟 常用指令](plugin/command.md)
 * [🕵️ 跨服命令](plugin/change-serever.md)
-* [📱基岩版必看！](plugin/bedrock.md)
-* [🎙️全球语音](plugin/voice.md)
+* [📱 基岩版必看！](plugin/bedrock.md)
+* [🎙️ 全球语音](plugin/voice.md)
 * [🎮 娱乐类](plugin/fun/README.md)
   * [装饰](plugin/fun/decorate.md)
   * [伪装](plugin/fun/morph.md)
@@ -67,7 +67,7 @@
 ## QA问答 <a href="#qa" id="qa"></a>
 
 * [📃 你可能想知道的](qa/may.md)
-* [➕ 外置登录教程](qa/wai-zhi-deng-lu-jiao-cheng.md)
+* [✅ 外置登录教程](qa/wai-zhi-deng-lu-jiao-cheng.md)
 
 ## 更新日志
 
