@@ -63,6 +63,7 @@
 ## 服务器规则 <a href="#rules" id="rules"></a>
 
 * [📃 基本规则](rules/rule.md)
+* [🔺 生电规范](rules/sheng-dian-gui-fan.md)
 
 ## QA问答 <a href="#qa" id="qa"></a>
 
