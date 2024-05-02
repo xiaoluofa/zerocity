@@ -23,6 +23,8 @@ layout:
 [数据排行榜](https://rank.sakuracat.site/) <mark style="background-color:green;">注：从美国绕回国内较慢!为了保护服务器ip！</mark>
 {% endhint %}
 
+<figure><img src="https://namemc.com/server/zeroserver.fun/embed" alt=""><figcaption></figcaption></figure>
+
 ## 服务器玩法
 
 * 原版即可进入服务器
