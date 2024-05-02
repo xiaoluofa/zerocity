@@ -70,6 +70,7 @@
 
 * [📃 你可能想知道的](qa/may.md)
 * [✅ 外置登录教程](qa/wai-zhi-deng-lu-jiao-cheng.md)
+* [💲 服务器货币介绍](qa/fu-wu-qi-huo-bi-jie-shao.md)
 
 ## 更新日志
 
