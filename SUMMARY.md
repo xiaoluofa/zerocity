@@ -32,6 +32,7 @@
 * [📱 基岩版必看！](plugin/bedrock.md)
 * [🎙️ 全球语音](plugin/voice.md)
 * [🎮 娱乐类](plugin/fun/README.md)
+  * [📦 物品显示](plugin/fun/wu-pin-xian-shi.md)
   * [装饰](plugin/fun/decorate.md)
   * [伪装](plugin/fun/morph.md)
   * [旗帜](plugin/fun/banner.md)
