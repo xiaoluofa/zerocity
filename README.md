@@ -15,6 +15,10 @@ layout:
 
 # 零落服务器
 
+{% hint style="danger" %}
+这个网站停止维护，请查看[新官网](https://www.zeroserver.fun)
+{% endhint %}
+
 {% hint style="success" %}
 如果你是服务器曾经的玩家欢迎下载[全周目存档](https://pan.baidu.com/s/1Y5ynCU6yQujJsVbC3CaPIQ?pwd=48gy)
 
