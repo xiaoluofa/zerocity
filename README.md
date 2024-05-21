@@ -16,7 +16,7 @@ layout:
 # 零落服务器
 
 {% hint style="danger" %}
-这个网站停止维护，请查看[新官网](https://www.zeroserver.fun)
+这个网站停止维护，请查看[新官网](https://www.zeroserver.fun/)
 {% endhint %}
 
 {% hint style="success" %}
