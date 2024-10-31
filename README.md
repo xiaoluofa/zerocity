@@ -17,7 +17,13 @@ layout:
 {% hint style="danger" %}
 很遗憾的告诉你，这个服务器已经停止维护，但是我们向你提供了存档。
 
-下载地址
+
+
+链接：https://pan.baidu.com/s/19CD1dQ6zZtunK27vIAFEAA?pwd=uixg 提取码：uixg&#x20;
+
+
+
+有人吐槽最后周目不是最后的备份，目前已经更新
 
 
 
